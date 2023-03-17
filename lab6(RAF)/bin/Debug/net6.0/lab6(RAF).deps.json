@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lab6(RAF)/1.0.0": {
+        "runtime": {
+          "lab6(RAF).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab6(RAF)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
